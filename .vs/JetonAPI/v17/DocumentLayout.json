@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E35E3E9-6546-4745-9306-BF54F7B6C5C0}|Entities\\Entities.csproj|c:\\users\\asus\\source\\repos\\jetonapi\\entities\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E35E3E9-6546-4745-9306-BF54F7B6C5C0}|Entities\\Entities.csproj|solutionrelative:entities\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E35E3E9-6546-4745-9306-BF54F7B6C5C0}|Entities\\Entities.csproj|c:\\users\\asus\\source\\repos\\jetonapi\\entities\\model\\tokenpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E35E3E9-6546-4745-9306-BF54F7B6C5C0}|Entities\\Entities.csproj|solutionrelative:entities\\model\\tokenpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E35E3E9-6546-4745-9306-BF54F7B6C5C0}|Entities\\Entities.csproj|c:\\users\\asus\\source\\repos\\jetonapi\\entities\\model\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E35E3E9-6546-4745-9306-BF54F7B6C5C0}|Entities\\Entities.csproj|solutionrelative:entities\\model\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7730CB2-95DF-4B5A-8188-B50D68786AAB}|DTOs\\DTOs.csproj|c:\\users\\asus\\source\\repos\\jetonapi\\dtos\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7730CB2-95DF-4B5A-8188-B50D68786AAB}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7730CB2-95DF-4B5A-8188-B50D68786AAB}|DTOs\\DTOs.csproj|c:\\users\\asus\\source\\repos\\jetonapi\\dtos\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7730CB2-95DF-4B5A-8188-B50D68786AAB}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7730CB2-95DF-4B5A-8188-B50D68786AAB}|DTOs\\DTOs.csproj|c:\\users\\asus\\source\\repos\\jetonapi\\dtos\\dtos\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7730CB2-95DF-4B5A-8188-B50D68786AAB}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtos\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E35E3E9-6546-4745-9306-BF54F7B6C5C0}|Entities\\Entities.csproj|c:\\users\\asus\\source\\repos\\jetonapi\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E35E3E9-6546-4745-9306-BF54F7B6C5C0}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26425190-FEF7-4645-8BDF-6BA9B9796287}|Business\\Business.csproj|c:\\users\\asus\\source\\repos\\jetonapi\\business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26425190-FEF7-4645-8BDF-6BA9B9796287}|Business\\Business.csproj|solutionrelative:business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151FDCAD-FA36-45E5-8E72-493F0D80DE37}|DataAccess\\DataAccess.csproj|c:\\users\\asus\\source\\repos\\jetonapi\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151FDCAD-FA36-45E5-8E72-493F0D80DE37}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\DTOs\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\DTOs\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "DTOs\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:45:51.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\DTOs\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\DTOs\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "DTOs\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:45:46.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckoutDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\DTOs\\DTOs\\CheckoutDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOs\\CheckoutDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\DTOs\\DTOs\\CheckoutDTO.cs",
+              "RelativeToolTip": "DTOs\\DTOs\\CheckoutDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:45:41.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\Entities\\Model\\Purchase.cs",
+              "RelativeDocumentMoniker": "Entities\\Model\\Purchase.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\Entities\\Model\\Purchase.cs",
+              "RelativeToolTip": "Entities\\Model\\Purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:30:06.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T12:20:16.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenPackage.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\Entities\\Model\\TokenPackage.cs",
+              "RelativeDocumentMoniker": "Entities\\Model\\TokenPackage.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\Entities\\Model\\TokenPackage.cs",
+              "RelativeToolTip": "Entities\\Model\\TokenPackage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:20:22.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\Entities\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\Entities\\Model\\User.cs",
+              "RelativeToolTip": "Entities\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:20:14.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\DataAccess\\Class1.cs",
+              "RelativeToolTip": "DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:16:40.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\Business\\Class1.cs",
+              "RelativeDocumentMoniker": "Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\JetonAPI\\Business\\Class1.cs",
+              "RelativeToolTip": "Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:15:55.284Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1092,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
