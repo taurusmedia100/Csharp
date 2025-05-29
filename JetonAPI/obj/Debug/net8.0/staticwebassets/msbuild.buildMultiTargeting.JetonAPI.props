@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JetonAPI.props" />
+</Project>

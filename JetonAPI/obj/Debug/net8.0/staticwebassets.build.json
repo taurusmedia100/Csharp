@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yoZYajavcCfJCDyqzZBnGH8XR0h4IqWcQbps7RQLNFs=",
+  "Source": "JetonAPI",
+  "BasePath": "_content/JetonAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

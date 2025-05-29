@@ -11,7 +11,7 @@
         public TokenPackage TokenPackage { get; set; }
 
         public DateTime PurchaseDate { get; set; }
-
+        public int Amount { get; set; }
         public string StripeSessionId { get; set; }
         public string PaymentStatus { get; set; }  // pending, paid, failed və s.
     }
