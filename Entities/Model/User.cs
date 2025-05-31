@@ -11,9 +11,12 @@ namespace Entities.Model
         public string? ProfileImageUrl { get; set; }
         public string? StripeCustomerId { get; set; }
         public DateTime? LastLoginDate { get; set; }
-        public int TokenBalance { get; set; }       // Jeton sayı
+        public decimal BeforeLastPaymentLastJetonBalance { get; set; }  //sonuncu odenisden evvelki jeton sayi
+        public decimal CurrentJetonBalance { get; set; }       // Jeton sayı
         public DateTime CreatedAt { get; set; }     // Qeydiyyat tarixi
-        public ICollection<Purchase> Purchases { get; set; }  // İstifadəçinin aldığı paketlər (naviqasiya)
+        public ICollection<UserPurchase> UserPurchases { get; set; }
+
+
     }
 
 }

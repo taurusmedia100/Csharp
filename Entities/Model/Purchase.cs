@@ -2,17 +2,17 @@
 {
     public class Purchase
     {
-        public int Id { get; set; }
-
-        public int UserId { get; set; }
-        public User User { get; set; }
+        public string Id { get; set; }
 
         public int TokenPackageId { get; set; }
-        public TokenPackage TokenPackage { get; set; }
+        public JetonPackage TokenPackage { get; set; }
 
         public DateTime PurchaseDate { get; set; }
         public int Amount { get; set; }
         public string StripeSessionId { get; set; }
         public string PaymentStatus { get; set; }  // pending, paid, failed və s.
+
+        public ICollection<UserPurchase> UserPurchases { get; set; }
+
     }
 }

@@ -8,7 +8,7 @@ namespace DataAccess
     {
         public JetonDbContext(DbContextOptions<JetonDbContext> options):base(options) { }
         
-        public DbSet<TokenPackage> TokenPackages { get; set; }
+        public DbSet<JetonPackage> TokenPackages { get; set; }
         public DbSet<Purchase> Purchases { get; set; }
        
     }
