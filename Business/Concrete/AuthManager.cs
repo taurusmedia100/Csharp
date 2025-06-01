@@ -10,7 +10,7 @@ namespace Business.Concrete
     {
         private readonly UserManager<User> _userManager;
         private readonly SignInManager<User> _signInManager;
-        private readonly ITokenService _tokenService;
+        //private readonly ITokenService _tokenService;
 
         public Task<IDataResult<Token>> LoginAsync(LoginDTO loginDTO)
         {

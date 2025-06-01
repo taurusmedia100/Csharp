@@ -1,7 +1,6 @@
 using DataAccess;
 using Entities.Model;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 

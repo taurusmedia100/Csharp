@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JetonAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92ad95de3ea9ebcbaef3463aaeecf13620956823")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+681105579310d36cfbebcfa5033fe92f068b4028")]
 [assembly: System.Reflection.AssemblyProductAttribute("JetonAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JetonAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
